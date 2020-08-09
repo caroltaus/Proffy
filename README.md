@@ -1,4 +1,2 @@
 # Proffy
-Aplicação web desenvolvida na Next Level Week #2 da RocketSeat. 
-
-Plataforma de estudos online, feito com html, css e js.
+<p>Aplicação web de uma Plataforma de estudos online, desenvolvida na Next Level Week #2 da RocketSeat, com html, css e javascript. 
