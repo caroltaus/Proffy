@@ -1,0 +1,3 @@
+
+// comando no terminal: node src/server.js -> liga o servidor
+//com o nodemon e package.json configurado => comando: npm run dev para ligar o servidor
